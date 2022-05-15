@@ -5,7 +5,7 @@ export default function Home( ) {
 
     return(
        <Layout>
-           <h4>Welcome to your shopping list</h4>
+           <h4>Explore the world of games</h4>
        </Layout>
     )
 }
