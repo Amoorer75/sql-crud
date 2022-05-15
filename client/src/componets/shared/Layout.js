@@ -6,7 +6,7 @@ export default function Layout(props){
 
     return(
         <div >
-            <h1>Grocery List</h1>
+            <h1>Gamer Info On Games</h1>
             <Nav />
 
             {props.children}
